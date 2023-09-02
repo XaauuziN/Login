@@ -5,4 +5,4 @@
 
 
 <img src="https://cdn.discordapp.com/attachments/706703254817603604/1147530612362711151/image.png">
-<img src="https://cdn.discordapp.com/attachments/706703254817603604/1147530678074880030/image.png" style=" max-width: 100px">
+<img src="https://cdn.discordapp.com/attachments/706703254817603604/1147530678074880030/image.png" style=" max-width: 100vw">
