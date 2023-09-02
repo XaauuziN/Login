@@ -1,1 +1,4 @@
-<h1>Tela de login feita em HTML/CSS, para ser usada em meu portifolio</h1>
+<h1>Tela de login</h1>
+<br>
+
+<h3>Uma tela de login feita em HTML E CSS, criada a partir de uma aula (com alguns códigos semi-montados, e também utilizada em meu portifolio</h3>
